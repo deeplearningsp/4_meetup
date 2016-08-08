@@ -1,5 +1,9 @@
 # 4 Meetup
 
+## Link para email no slack
+
+https://goo.gl/forms/kDvSQEueoFqglNaa2
+
 We will use Google Virtual Cloud to test it on a fresh instance of Debian Jessie.
 
 
